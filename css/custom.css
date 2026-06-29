@@ -594,8 +594,8 @@ hr
 
 .scroll-item {
     flex: 0 0 auto;
-    width: 300px; /* Width of each picture */
-    height: 200px;
+    width: 220px; /* Width of each picture */
+    height: 340px;
     border-radius: 12px;
     overflow: hidden;
     box-shadow: 0 8px 15px rgba(0,0,0,0.1);
